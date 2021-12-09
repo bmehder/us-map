@@ -7,66 +7,18 @@
     <title>Highlands Chamber Map</title>
 
     <link href="map.css" rel="stylesheet" />
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-      body {
-        /* background-image: radial-gradient(
-          circle farthest-corner at 10% 20%,
-          rgba(147, 67, 67, 1) 0%,
-          rgba(111, 27, 27, 1) 90%
-        ); */
-      }
-      main {
-        width: 80%;
-        height: 100vh;
-        margin: auto;
-        overflow: hidden;
-      }
-    </style>
+    <link href="main.css" rel="stylesheet" />
 
     <script src="raphael.min.js"></script>
     <script src="settings.js"></script>
     <script src="paths.js"></script>
     <script src="map.js"></script>
+    <script src="main.js"></script>
   </head>
+
   <body>
     <main>
-      <div id="map-container"></div>
+      <div id="mapElement" />
     </main>
-
-    <script>
-      let data = localStorage.getItem('mapData')
-      let parsedData = JSON.parse(data)
-
-      const map = new FlaMap(parsedData || map_cfg)
-      map.drawOnDomReady('map-container')
-
-      const consoleOutput = () => {
-        for (const item in parsedData?.map_data || map_cfg?.map_data) {
-          console.log(
-            parsedData?.map_data[item].shortname ||
-              map_cfg?.map_data[item].shortname,
-            parsedData?.map_data[item].name || map_cfg?.map_data[item].name
-          )
-        }
-      }
-      console.clear()
-      consoleOutput()
-
-      map.on('click', (ev, sid, map) => {
-        let name = map.fetchStateAttr(sid, 'shortname')
-        map.stateLabelModifyText(sid, name++)
-        map.setStateAttr(sid, { shortname: name })
-
-        localStorage.setItem('mapData', JSON.stringify(parsedData || map_cfg))
-        // console.log(parsedData?.map_data || map_cfg.map_data)
-        console.clear()
-        consoleOutput()
-      })
-    </script>
   </body>
 </html>

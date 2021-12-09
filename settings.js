@@ -48,7 +48,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st2: {
@@ -58,7 +58,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st3: {
@@ -68,7 +68,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st4: {
@@ -78,7 +78,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st5: {
@@ -88,7 +88,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st6: {
@@ -98,7 +98,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st7: {
@@ -108,7 +108,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st8: {
@@ -118,7 +118,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st9: {
@@ -128,7 +128,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st10: {
@@ -138,7 +138,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st11: {
@@ -148,7 +148,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st12: {
@@ -158,7 +158,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st13: {
@@ -168,7 +168,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st14: {
@@ -178,7 +178,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st15: {
@@ -188,7 +188,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st16: {
@@ -198,7 +198,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st17: {
@@ -208,7 +208,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st18: {
@@ -218,7 +218,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st19: {
@@ -228,7 +228,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st20: {
@@ -238,7 +238,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st21: {
@@ -248,7 +248,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st22: {
@@ -258,7 +258,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st23: {
@@ -268,7 +268,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st24: {
@@ -278,7 +278,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st25: {
@@ -288,7 +288,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st26: {
@@ -298,7 +298,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st27: {
@@ -308,7 +308,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st28: {
@@ -318,7 +318,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st29: {
@@ -328,7 +328,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st30: {
@@ -338,7 +338,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st31: {
@@ -348,7 +348,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st32: {
@@ -358,7 +358,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st33: {
@@ -368,7 +368,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st34: {
@@ -378,7 +378,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st35: {
@@ -388,7 +388,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st36: {
@@ -398,7 +398,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st37: {
@@ -408,7 +408,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st38: {
@@ -418,7 +418,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st39: {
@@ -428,7 +428,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st40: {
@@ -438,7 +438,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st41: {
@@ -448,7 +448,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st42: {
@@ -458,7 +458,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st43: {
@@ -468,7 +468,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st44: {
@@ -478,7 +478,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st45: {
@@ -488,7 +488,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st46: {
@@ -498,7 +498,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st47: {
@@ -508,7 +508,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st48: {
@@ -518,7 +518,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st49: {
@@ -528,7 +528,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st50: {
@@ -538,7 +538,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
     st51: {
@@ -548,7 +548,7 @@ var map_cfg = {
       link: '',
       comment: '',
       image: '',
-      color_map: '#7798BA',
+      color_map: '#3e95cd',
       color_map_over: '#366CA3',
     },
   },
